@@ -80,7 +80,7 @@ a:hover {
   padding-bottom: 2%;
   font-size: 18px;
   padding-right: 10%;
-  height: 600px;
+  height: 100%;
 }
 
 .experienceSection__amazon__content h2 {
@@ -101,7 +101,7 @@ a:hover {
   padding-bottom: 2%;
   font-size: 18px;
   padding-right: 10%;
-  height: 600px;
+  height: 100%;
 }
 
 .experienceSection__samsung__content h2 {
@@ -118,7 +118,7 @@ a:hover {
   padding-bottom: 2%;
   font-size: 18px;
   padding-right: 10%;
-  height: 600px;
+  height: 100%;
 }
 
 .experienceSection__deloitte__content h2 {
